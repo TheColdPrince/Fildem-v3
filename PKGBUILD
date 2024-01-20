@@ -1,7 +1,7 @@
 pkgname=python3-fildem
 pkgver=2.0.1
 pkgrel=1
-pkgdesc="This project is a fork of gnomehud with the adition of a global menu bar"
+pkgdesc="This project is a fork of a global menu bar"
 arch=('i686' 'x86_64')
 url="https://github.com/Weather-OS/Fildem-v2"
 depends=('bamf'

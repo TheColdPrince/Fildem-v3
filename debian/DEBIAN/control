@@ -8,4 +8,4 @@ Depends: libbamf3-dev, bamfdaemon, libkeybinder-3.0-dev, appmenu-gtk2-module, ap
 Section: python
 Priority: optional
 Homepage: https://github.com/gonzaarcr/fildem
-Description: This project is a fork of gnomehud with the adition of a global menu bar.
+Description: This project is a fork of a global menu bar.
